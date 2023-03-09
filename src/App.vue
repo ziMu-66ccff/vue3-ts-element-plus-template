@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import appHeader from '@/components/appHeader.vue';
+</script>
 
 <template>
   <div>
